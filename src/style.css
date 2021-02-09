@@ -1,0 +1,13 @@
+h1, p {
+  font-family: Lato;
+}
+
+.shop,
+.empty {
+    height: 100%;
+}
+
+.cart {
+  height: 100vh;
+  background-color: lightblue;
+}
